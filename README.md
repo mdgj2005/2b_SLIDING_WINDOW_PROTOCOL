@@ -51,7 +51,5 @@ CLIENT OUTPUT:
 SERVER OUTPUT:
 ![image](https://github.com/mdgj2005/2b_SLIDING_WINDOW_PROTOCOL/assets/145533936/0791ee96-7945-4286-a9f3-6234a453490e)
 
-
-## OUPUT
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
